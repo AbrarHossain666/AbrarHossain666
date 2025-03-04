@@ -78,25 +78,18 @@ I write regular blog posts, most of which you will find on my personal website [
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
     <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
 <br>
+     
+
 <!--- 3rd Section on Recent Projects -->
 
   <details>	
     <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
-  ✨ [Web Development Portfolio](https://github.com/abrar-hossain/Web-Dev-Portfolio)<br>
-  ✨ [Data Science Analysis on Stock Prices](https://github.com/abrar-hossain/Stock-Analysis)<br>
-  ✨ [JavaScript Projects](https://github.com/abrar-hossain/JS-Projects)<br> 
-  ✨ [Python-based Data Analysis](https://github.com/abrar-hossain/Python-Data-Analysis)<br>
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abrar-hossain/abrar-hossain/pull/1) in [abrar-hossain/abrar-hossain](https://github.com/abrar-hossain/abrar-hossain)
-2. 💪 Opened PR [#2](https://github.com/abrar-hossain/abrar-hossain/pull/2) in [abrar-hossain/abrar-hossain](https://github.com/abrar-hossain/abrar-hossain)
-<!--END_SECTION:activity-->
-  </details>
-
-
-  <details>	
-    <summary><b>📈 Get my Code stats</b></summary><br>
+  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
+  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
+  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
+  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
+  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
