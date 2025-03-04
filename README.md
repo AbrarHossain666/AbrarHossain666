@@ -1,70 +1,56 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in//">Abrar Hossain</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/abrar-hossain">Abrar Hossain</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="">Portfolios</a> -
-  <a href="">LinkedIn</a> - 
-  <a href="">Twitter</a> -
-  <a href="">Website</a> -
-  <a href="">Google Featured</a> -
-  <a href="">Contact me.</a> 
+  <a href="https://abrarhossain.com/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/abrar-hossain/">LinkedIn</a> - 
+  <a href="https://twitter.com/abrar_hossain">Twitter</a> -
+  <a href="https://abrarhossain.com/">Website</a> -
+  <a href="https://github.com/abrar-hossain">GitHub</a> -
+  <a href="https://www.facebook.com/abrarhossain">Facebook</a>
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Data Engineer | Prev. PM @girlscript <br>
-⚡ Check my ✨ [Website]() or 🌱 [eBook]()<br>
-📫 How to reach me: [Schedule Call]() or Join  [Newsletter]/)<br>
-👯 Join my opensource community[recodehive]()<br>
-💬 Ask me about SEO/Data Science.<br>
-<!--- Adding Tech Stack open Section -->
-
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/abrar-hossain/abrar-hossain/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Aspiring Software Developer | Passionate about Data Science & Problem Solving <br>
+⚡ Check out my [Portfolio](https://abrarhossain.com/) or 🌱 [eBook](https://learn.abrarhossain.com/)<br>
+📫 How to reach me: [Schedule a Call](https://topmate.io/abrarhossain) or [Join my Newsletter](https://abrarhossain.substack.com/)<br>
+👯 Join my opensource community [abrarhossain](https://github.com/abrarhossain)<br>
+💬 Ask me about **JavaScript**, **Python**, **Data Science**, or **Software Development**.<br>
 
 <details>	
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+ <summary><b>🛠 Tech Stack / Certifications</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
-<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
-Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<img src="https://img.shields.io/badge/-JavaScript-0F8CFF?logo=javascript&logoColor=white&style=flat">&nbsp;<br>
+Frameworks and Libraries: 
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
-Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+Tools and Platforms: 
+<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
-<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
-<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
-Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+Operating Systems: 
+<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
 <a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
+<img src="https://raw.githubusercontent.com/abrar-hossain/abrar-hossain/refs/heads/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
 </div>
 </details> 
 
 
-<!--- 2nd Section on GitHub Analytics -->
-
-
+<details>	
   <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<a href="https://github.com/abrar-hossain">
+   <img height="155em" src="https://raw.githubusercontent.com/abrar-hossain/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Abrar Hossain github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/abrar-hossain/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Abrar Hossain github stats" />
 <br>
      
 
@@ -73,20 +59,17 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <details>	
     <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
-  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
+  ✨ [Web Development Portfolio](https://github.com/abrar-hossain/Web-Dev-Portfolio)<br>
+  ✨ [Data Science Analysis on Stock Prices](https://github.com/abrar-hossain/Stock-Analysis)<br>
+  ✨ [JavaScript Projects](https://github.com/abrar-hossain/JS-Projects)<br> 
+  ✨ [Python-based Data Analysis](https://github.com/abrar-hossain/Python-Data-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
-  <!--END_SECTION:activity-->
-  </details> 
+1. 🎉 Merged PR [#1](https://github.com/abrar-hossain/abrar-hossain/pull/1) in [abrar-hossain/abrar-hossain](https://github.com/abrar-hossain/abrar-hossain)
+2. 💪 Opened PR [#2](https://github.com/abrar-hossain/abrar-hossain/pull/2) in [abrar-hossain/abrar-hossain](https://github.com/abrar-hossain/abrar-hossain)
+<!--END_SECTION:activity-->
+  </details>
+
 
   <details>	
     <summary><b>📈 Get my Code stats</b></summary><br>
