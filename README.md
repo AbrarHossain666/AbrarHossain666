@@ -62,5 +62,5 @@
 <Br>
   
 <p align="center">
-  <img src="https://github.com/abrarthedev/abrarthedev/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ ![snake](https://github.com/abrarthedev/abrarthedev/raw/output/github-contribution-grid-snake.svg)
 </p>
