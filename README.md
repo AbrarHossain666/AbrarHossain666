@@ -1,40 +1,44 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/abrar-hossain">Abrar Hossain</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in//">Jisha</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://abrarhossain.com/">Portfolios</a> -
-  <a href="https://www.linkedin.com/in/abrar-hossain/">LinkedIn</a> - 
-  <a href="https://twitter.com/abrar_hossain">Twitter</a> -
-  <a href="https://abrarhossain.com/">Website</a> -
-  <a href="https://github.com/abrar-hossain">GitHub</a> -
-  <a href="https://www.facebook.com/abrarhossain">Facebook</a>
+  <a href="http://sanjaykv.com/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
+  <a href="https://x.com/sanjay_kv_">Twitter</a> -
+  <a href="https://recodehive.com/">Website</a> -
+  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
+  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/abrar-hossain/abrar-hossain/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Aspiring Software Developer | Passionate about Data Science & Problem Solving <br>
-⚡ Check out my [Portfolio](https://abrarhossain.com/) or 🌱 [eBook](https://learn.abrarhossain.com/)<br>
-📫 How to reach me: [Schedule a Call](https://topmate.io/abrarhossain) or [Join my Newsletter](https://abrarhossain.substack.com/)<br>
-👯 Join my opensource community [abrarhossain](https://github.com/abrarhossain)<br>
-💬 Ask me about **JavaScript**, **Python**, **Data Science**, or **Software Development**.<br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Data Engineer | Prev. PM @girlscript <br>
+⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
+📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
+👯 Join my opensource community[recodehive](https://github.com/Recodehive)<br>
+💬 Ask me about SEO/Data Science.<br>
+<!--- Adding Tech Stack open Section -->
+
 
 <details>	
- <summary><b>🛠 Tech Stack / Certifications</b></summary><br>
+ <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
-<img src="https://img.shields.io/badge/-JavaScript-0F8CFF?logo=javascript&logoColor=white&style=flat">&nbsp;<br>
-Frameworks and Libraries: 
+<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
-Tools and Platforms: 
-<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
-Operating Systems: 
-<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
+<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
 
